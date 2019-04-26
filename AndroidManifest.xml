@@ -110,7 +110,6 @@
             android:label="@string/screen_off_gestures_title"
             android:theme="@style/LineageActions">
         </activity>
-
-    </application>
+       </application>
 
 </manifest>
